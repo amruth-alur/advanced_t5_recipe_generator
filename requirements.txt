@@ -1,0 +1,8 @@
+transformers
+torch
+sentencepiece
+pandas
+requests
+bert-score
+matplotlib
+python-dotenv

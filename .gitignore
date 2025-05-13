@@ -1,0 +1,18 @@
+# Ignore environment files
+.env
+.venv/
+recipe-env/
+
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+
+# Ignore IDE-specific files (for example, VS Code or PyCharm)
+.vscode/
+.idea/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore generated markdown files in outputs or reports
+recipe.md
